@@ -3,6 +3,7 @@ My girlfriend I struggle to find movies to watch, so this project is a simple mo
 How to Use This App:
 - Simply click the button at the center of the screen ("Let us Choose For You").
 - The app will return a list of movies using a random keyword ('Dog', 'Car', 'Fast', 'Avengers', etc.), and display the movie name and its poster (if it is available / provided by the API).
+- If no movies display, simply click the button again or refresh the page. 
 
 (V.1.0.1)
 - Completely mobile-responsive (finally.)
